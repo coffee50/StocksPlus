@@ -1,0 +1,12 @@
+--- Trading Report for FARTCOIN/USDT ---
+
+Initial Deposit: $1,000.00
+Final Value:     $601.80
+Total Profit:    $-398.20 (-39.82%)
+
+--- Trade Log ---
+        date         ticker action    quantity   price         cost
+0 2025-05-21  FARTCOIN/USDT    BUY  711.488497  1.4041  1000.000000
+1 2025-06-07  FARTCOIN/USDT   SELL  711.488497  1.0049   714.974791
+2 2025-07-14  FARTCOIN/USDT    BUY  552.109463  1.2924   714.259816
+3 2025-08-09  FARTCOIN/USDT   SELL  552.109463  1.0911   602.406635

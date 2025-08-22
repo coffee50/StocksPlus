@@ -1,0 +1,11 @@
+--- Trading Report for BTC/USDT ---
+Run Time: 2025-08-15 01:17:54
+Duration: 0m 19.3s
+
+Initial Deposit: $100.00
+Final Value:     $100.26
+Total Profit:    $0.26 (0.26%)
+
+--- Trade Log ---
+        date    ticker action  quantity      price   cost
+0 2025-07-21  BTC/USDT    BUY  0.000851  117380.36  100.0

@@ -1,0 +1,15 @@
+--- Trading Report for ETH/USDT ---
+Run Time: 2025-08-15 01:19:41
+Duration: 0m 15.9s
+
+Initial Deposit: $10,000.00
+Final Value:     $16,348.56
+Total Profit:    $6,348.56 (63.49%)
+
+--- Trade Log ---
+        date    ticker action  quantity    price          cost
+0 2025-01-21  ETH/USDT    BUY  3.002221  3327.54  10000.000000
+1 2025-01-22  ETH/USDT   SELL  3.002221  3242.60   9735.001350
+2 2025-05-08  ETH/USDT    BUY  4.401375  2207.39   9725.266349
+3 2025-06-26  ETH/USDT   SELL  4.401375  2415.96  10633.545548
+4 2025-07-12  ETH/USDT    BUY  3.605603  2943.28  10622.912002
